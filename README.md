@@ -1,5 +1,5 @@
 # Tweets and Emojis
-Scraping tweets from the Twitter API. Analyzing emotion distribution around the world based on user location and emoji use from the tweets. A project conducted under the Berkeley Affective Cognitive Neuroscience Lab.
+Scraping tweets from the Twitter API. Analyzing emotion distribution around the world based on user location and emoji use from the tweets. A project conducted under the UC Berkeley Keltner Lab.
 
 ## Part 1: Scraping Old Tweets
 Code written in Python to get old tweets. It bypasses the time constraint limitations of Twitter Official API. Code adapted from Jefferson Henrique's GetOldTweets to include geolocation and scrape emojis instead of text.
